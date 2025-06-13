@@ -64,6 +64,8 @@ Bonus Challenges (For Later)
 # Variations
 
 Since the goal is to solidify the fundamentals, I am going to implement this game in different ways.
-First variation, is just playing the game on command line. The script is found [here](./game_cmd.py)
-Second variation, is implementing tic-tac-toe using Numpy. The script is found [here](./game_numpy.py)
-Third variation, is implementing the game in Tkinter. A more visual touch to the game. The script is found [here](./game_tkinter.py)
+* First variation, is just playing the game on command line. The script is found [here](./game_cmd.py).
+
+* Second variation, is implementing tic-tac-toe using Numpy. The script is found [here](./game_numpy.py).
+
+* Third variation, is implementing the game in Tkinter. A more visual touch to the game. The script is found [here](./game_tkinter.py).
