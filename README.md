@@ -1,9 +1,8 @@
-# Purpose
+# About this Repository
 
-Goal behind this repository is to streamline the projects I have made so far.
-This is going to be a place where all of the code I have written to solidify my fundamentals is present. Some of this was written in 2014 and I have not pushed all of my projects to Git.
+This repository consolidates projects I’ve built over the years to sharpen my programming fundamentals—some dating back to 2014. Most of the original code was written in Java, but I’m now rewriting it in Python with a focus on clarity, readability, and Pythonic practices.
 
-However, after years of procrastination I have decided to re-write, add more documentation and context to the projects when I was just beginning to learn to code.
-I have tons of Java code, but I am going to convert everything to Python and make it more Pythonic. 
+Each project is being revisited with improved structure, documentation, and context to reflect my growth as a developer. The goal is to turn legacy experiments into clean, maintainable, and well-documented Python code.
 
-Wish me luck! More to come!
+Ongoing updates as I convert, refactor, and expand.
+It’s a bit of a nostalgic journey—and a fresh start.
