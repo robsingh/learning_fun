@@ -58,7 +58,6 @@ Goal: Make the game clean and interactive.
 
 Bonus Challenges (For Later)
 - Keep a scoreboard for multiple games.
-- Build a simple GUI version with tkinter or a web version.
 - Add an AI opponent (even a dumb one that picks random moves).
 
 # Variations
