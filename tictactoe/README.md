@@ -44,11 +44,13 @@ Goal: Make the game clean and interactive.
 
 8. Clearer board formatting
     - Make the grid look more like a real board:
+    ```
         X | O | X
         ---+---+---
         O | X | O
         ---+---+---
         X |   |  
+    ```
 
 9. Play again option
     - After a win or draw, ask if the user wants to play again.
